@@ -1,0 +1,28 @@
+(fonts:::)
+font-family:OpenSans-Regular; 
+font-family:OpenSans-Light;
+font-family:OpenSans-LightItalic; 
+font-family:OpenSans-SemiBold; 
+font-family:SemiBoldItalic; 
+(fonts end::;)
+
+
+color:::
+light blue:#334752
+
+white:#ffffff
+
+yellow:#ffe600
+
+dark blue:#2c4755
+
+blue halka:#637988
+
+col-h2-30px
+    h1-55px
+
+screen::::
+
+xl-      lg-      md-    sm-   col-
+                         m-60  m-45
+                           60    45
